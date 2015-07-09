@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Status()
+comment0.text=\r\nConstructor\ \r\n\ Crea\ una\ lista\ de\ imagenes\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ hace\ lo\ que\ Animacion\ quiere\ hacer.\ \r\n\ Hace\ que\ el\ objeto\ intermbie\ sus\ posturas\ gracias\ a\ estar\ rotando\ sus\ imagenes\r\n
+comment2.params=
+comment2.target=void\ animar()
+comment2.text=\r\n\ \r\n\ Hace\ rotar\ las\ imagenes\r\n
+comment3.params=n
+comment3.target=greenfoot.GreenfootImage\ getImagen(int)
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Animacion2()
+comment0.text=\r\n\ Constructor\ de\ Animacion3\r\n\ crea\ una\ lista\ de\ imagenes\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ ejecuta\ la\ funcion\ animar\r\n\ siempre\ estara\ ecutada\ mientras\ que\ estes\ jugando\r\n
+comment2.params=
+comment2.target=void\ animar()
+comment2.text=\r\n\ animar\ -\r\n\ hace\ que\ las\ imagenes\ se\ intercalen\ y\ asi\ se\ vea\ que\ se\ esta\ produciendo\ un\ cambio\ de\ imagenes\r\n\ pareciera\ como\ si\ cambiaran\ de\ objeto\r\n\r\n
+comment3.params=n
+comment3.target=greenfoot.GreenfootImage\ getImagen(int)
+numComments=4

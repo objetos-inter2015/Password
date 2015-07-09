@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Nivel3()
+comment0.text=\r\n\ Constructor\ para\ objetos\ de\ clase\ nivel3\r\n\ Aqu\u00ED\ se\ crean\ todos\ los\ objetos\ que\ va\ tener\ el\ mundo\ en\ el\ tercer\ nivel\r\n
+comment1.params=
+comment1.target=Counter\ getCounter()
+comment1.text=\r\n\ ser\u00E1\ utilizado\ para\ accesar\ a\ la\ clase\ Counter\ y\ poder\ modificarla\ \r\n\ \r\n
+numComments=2

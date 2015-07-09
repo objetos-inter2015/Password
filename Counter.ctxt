@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Counter()
+comment0.text=\r\n\ constructor\ \r\n\ crea\ la\ imagen\ de\ la\ clase\r\n
+comment1.params=cont
+comment1.target=void\ bumpCount(int)
+comment1.text=\r\n\ Incrementa\ los\ puntos\ que\ se\ tienen\r\n
+numComments=2

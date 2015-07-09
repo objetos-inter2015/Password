@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Plataforma()
+comment0.text=\r\n\ constructor\:\ crea\ una\ lista\ de\ imagenes\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ llama\ a\ un\ metodo\ para\ que\ siempre\ se\ ejecute\r\n
+comment2.params=n
+comment2.target=greenfoot.GreenfootImage\ getImagen(int)
+comment3.params=
+comment3.target=void\ interseccion()
+comment3.text=\r\n\ Verifica\ si\ esta\ intersectando\ a\ la\ clase\ goku\ y\ toma\ la\ Y\ y\ X\ del\ mundo\ y\ utiliza\ \r\n\ el\ posicionamiento\ de\ estas\r\n
+comment4.params=
+comment4.target=void\ posicion()
+comment4.text=\r\n\ Destruye\ objetos\ plataforma\ y\ crea\ nuevos\ objetos,\ todo\ esto\ dependiendo\ donde\ \r\n\ se\ este\ dando\ clic\r\n\ \r\n
+numComments=5

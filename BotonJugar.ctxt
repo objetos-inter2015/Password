@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ hace\ lo\ que\ BotonJugar\ quiere\ hacer.\ Este\ m\u00E9todo\ se\ llama\ "cuando\ quiera"\ o\ whenever\r\n\ Llama\ a\ otro\ mundo\ y\ ademas\ crea\ una\ variable\ band\ que\ la\ podran\ utiliar\ sus\ subclases\r\n
+numComments=1

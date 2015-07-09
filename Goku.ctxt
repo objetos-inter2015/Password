@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Goku()
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ Goku\r\n\ Crea\ una\ lista\ de\ imagenes\ que\ utilizara\ el\ usuario\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ act-\ en\ cualquier\ instante\ del\ juego\ se\ estaran\ llamando\ en\ un\ ciclo\ las\ funciones\ que\ esten\ aqui\ \r\n\ \r\n
+comment2.params=n
+comment2.target=greenfoot.GreenfootImage\ getImagen(int)
+comment2.text=\r\n\ genera\ n\r\n\ \r\n
+comment3.params=mover
+comment3.target=void\ move(int)
+comment3.text=\r\n\ \ Le\ dice\ al\ usuario\ con\ que\ letras\ se\ va\ mover\ y\ cuanto\r\n\ \r\n
+comment4.params=
+comment4.target=void\ animar()
+comment4.text=\r\n\ Cambia\ las\ imagenes\ que\ se\ tienen\ para\ producir\ un\ efecto\ de\ que\ el\ usuario\ esta\ moviendo\ los\ pies\r\n\ \r\n
+comment5.params=
+comment5.target=void\ verificar()
+numComments=6
